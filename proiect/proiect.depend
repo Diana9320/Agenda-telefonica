@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1654545125 source:c:\users\diana\desktop\proiect poo\proiect\main.cpp
+	<tchar.h>
+	<stdio.h>
+	<windows.h>
+	"Persoana.h"
+	<fstream>
+	<bits/stdc++.h>
+
+1654539407 source:c:\users\diana\desktop\proiect poo\proiect\src\persoana.cpp
+	"Persoana.h"
+
+1654595336 c:\users\diana\desktop\proiect poo\proiect\include\persoana.h
+	<bits/stdc++.h>
+	<iostream>
+
